@@ -1,0 +1,11 @@
+1,,Password@123,Please correct the following errors,Username length must be >4 and <=20,
+2,qwertyuiopasdfghjkzxcvbnm,Password@123,Please correct the following errors,Username length must be >4 and <=20,
+3,1jbnjk,Password@123,Please correct the following errors,Username must start with a letter,
+4,qwert$,Password@123,Please correct the following errors,Username cannot contain special characters,
+5,james,,Please correct the following errors,,Password length must be >7 and <30
+6,james,qwertyuioplkjhgfdsazxcvbnmsdfghjknb,Please correct the following errors,,Password length must be >7 and <30
+7,james,password@123,Please correct the following errors,,Your Password must contain at least 1 uppercase letter 1 lowercase letter 1 number and 1 special character and should be 8-40 characters long.
+8,james,Password123,Please correct the following errors,,Your Password must contain at least 1 uppercase letter 1 lowercase letter 1 number and 1 special character and should be 8-40 characters long.
+9,james,PASSWORD@123,Please correct the following errors,,Your Password must contain at least 1 uppercase letter 1 lowercase letter 1 number and 1 special character and should be 8-40 characters long.
+10,james,Password,Please correct the following errors,,Your Password must contain at least 1 uppercase letter 1 lowercase letter 1 number and 1 special character and should be 8-40 characters long.
+11,james,Password@123,,,
